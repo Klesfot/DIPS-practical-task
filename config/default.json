@@ -1,0 +1,6 @@
+{
+  "port": 4228,
+  "dbUri": "mongodb+srv://Klesfot:gIBy6uyu@cluster0-4oykx.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "please let me pass this so i can finally sleep cause i gotta work tomorrow",
+  "baseUrl": "http://localhost/4228"
+}

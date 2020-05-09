@@ -1,0 +1,26 @@
+
+
+        /*db.run("CREATE TABLE user (" +
+            "id INT, NOT NULL, PRIMARY KEY, AUTOINCREMENT" +
+            " lastName TEXT," +
+            " firstName TEXT," +
+            " fatherName TEXT," +
+            " dob TEXT," +
+            " gender TEXT," +
+            " passportSeries TEXT," +
+            " passportNumber TEXT," +
+            " authority TEXT," +
+            " doi TEXT," +
+            " passportId TEXT," +
+            " placeOfBirth TEXT," +
+            " cityOfLiving TEXT," +
+            " addressOfLiving TEXT," +
+            " housePhone TEXT," +
+            " mobilePhone TEXT," +
+            " email TEXT," +
+            " registrationAddress TEXT," +
+            " martialStatus TEXT," +
+            " citizenship TEXT," +
+            " disability TEXT," +
+            " retired BOOLEAN," +
+            " income TEXT)");*/
